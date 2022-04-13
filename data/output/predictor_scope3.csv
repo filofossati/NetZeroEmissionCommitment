@@ -1,0 +1,90 @@
+,p_value
+port_weight,4.726850033120451e-50
+emissions_in_trade,5.733855777857373e-14
+co2_oil,6.531030781844096e-07
+co2_gas,0.0024849484610569594
+aviation_shipping,0.030112568745298596
+scope1_2_emission,0.0
+gics_sector_name_Communication Services,0.0020848771716955937
+gics_sector_name_Consumer Staples,4.050504066824857e-05
+gics_sector_name_Energy,0.0
+gics_sector_name_Health Care,0.010063852171142857
+gics_sector_name_Information Technology,0.006679897450501906
+gics_sector_name_Materials,1.2950099542124837e-23
+gics_sector_name_Real Estate,3.086293923589513e-05
+gics_sector_name_Utilities,1.0057118700424472e-136
+gics_sub_industry_name_Aerospace & Defense,0.004592677546108153
+gics_sub_industry_name_Airlines,4.213530617539476e-06
+gics_sub_industry_name_Aluminum,5.363859103503895e-06
+gics_sub_industry_name_Auto Parts & Equipment,0.016189318821841357
+gics_sub_industry_name_Automobile Manufacturers,6.865462498183619e-11
+gics_sub_industry_name_Building Products,0.0028914906944739714
+gics_sub_industry_name_Casinos & Gaming,0.004083901672577043
+gics_sub_industry_name_Construction Machinery & Heavy Trucks,4.4670923258180123e-07
+gics_sub_industry_name_Construction Materials,1.0298063066749286e-43
+gics_sub_industry_name_Copper,0.002116435896934147
+gics_sub_industry_name_Diversified Chemicals,7.923355835223851e-11
+gics_sub_industry_name_Diversified Metals & Mining,0.0006144760928805207
+gics_sub_industry_name_Diversified Real Estate Activities,0.007022590618012206
+gics_sub_industry_name_Electric Utilities,5.685515904985979e-55
+gics_sub_industry_name_Electrical Components & Equipment,0.0031443972386632
+gics_sub_industry_name_Environmental & Facilities Services,0.0022685898896525353
+gics_sub_industry_name_Fertilizers & Agricultural Chemicals,0.00449008689482714
+gics_sub_industry_name_Financial Exchanges & Data,0.025173350922834733
+gics_sub_industry_name_Gas Utilities,4.860902353679169e-20
+gics_sub_industry_name_Gold,1.1788689749799579e-07
+gics_sub_industry_name_Heavy Electrical Equipment,1.0765952350058046e-05
+gics_sub_industry_name_Hotels Resorts & Cruise Lines,0.0045864984359554675
+gics_sub_industry_name_Independent Power Producers & Energy Traders,1.666945901978495e-60
+gics_sub_industry_name_Industrial Conglomerates,0.012166341118609664
+gics_sub_industry_name_Industrial Gases,2.24091769559944e-13
+gics_sub_industry_name_Integrated Oil & Gas,0.0
+gics_sub_industry_name_Internet & Direct Marketing Retail,0.026415017455557865
+gics_sub_industry_name_Life & Health Insurance,0.047623732238034594
+gics_sub_industry_name_Metal & Glass Containers,0.00831088234546021
+gics_sub_industry_name_Multi-Sector Holdings,7.674436529345463e-13
+gics_sub_industry_name_Multi-Utilities,7.493131815128622e-11
+gics_sub_industry_name_Oil & Gas Drilling,1.3276800726413377e-34
+gics_sub_industry_name_Oil & Gas Equipment & Services,1.8331782009738137e-126
+gics_sub_industry_name_Oil & Gas Exploration & Production,1.083717236357134e-56
+gics_sub_industry_name_Oil & Gas Refining & Marketing,0.00047214636200255993
+gics_sub_industry_name_Oil & Gas Storage & Transportation,7.297789787115896e-13
+gics_sub_industry_name_Real Estate Development,2.8036255016647944e-06
+gics_sub_industry_name_Real Estate Services,0.0007322357704053873
+gics_sub_industry_name_Renewable Electricity,0.043849538356032884
+gics_sub_industry_name_Specialty Chemicals,1.0120536521015176e-05
+gics_sub_industry_name_Steel,3.7090397245895783e-60
+gics_sub_industry_name_Technology Hardware Storage & Peripherals,0.01109526868500415
+gics_sub_industry_name_Tires & Rubber,0.00031631403875140415
+gics_sub_industry_name_Water Utilities,2.550865535602946e-16
+gics_sub_industry_name_Wireless Telecommunication Services,0.007577037088069135
+region_Asia/Pacific Ex Japan,0.03618966228261284
+region_Europe,0.0008443108534622136
+region_Japan,1.1717048278718407e-05
+region_Latin America,0.00015878931923470787
+country_economy_developed,0.0037373373960403597
+Entity_Austria,4.660178501638855e-34
+Entity_Brazil,7.542728029505969e-26
+Entity_Canada,0.03929305737913515
+Entity_Chile,1.6872735091794575e-26
+Entity_Colombia,5.870742353819887e-109
+Entity_Denmark,0.0008407791631689296
+Entity_Finland,0.002525522080458123
+Entity_France,8.633785938819912e-08
+Entity_Germany,9.15361080882172e-06
+Entity_Hungary,0.008877293362098169
+Entity_Ireland,0.010426243543713602
+Entity_Japan,1.1717048278731774e-05
+Entity_Mexico,6.629014940312604e-07
+Entity_Norway,6.194240717649473e-15
+Entity_Saudi Arabia,0.0002959065293649822
+Entity_Singapore,0.004527088549941517
+Entity_South Korea,0.03193093160037476
+Entity_Sweden,0.0005383081398748522
+Entity_Switzerland,3.3684239653159562e-06
+Entity_United Arab Emirates,0.03546209389068996
+Entity_United Kingdom,6.836824237635422e-14
+target_status_class_year_not_taking_action,0.01936161298940504
+net_zero_committed_No,0.014358622177481201
+net_zero_committed_Yes,0.0004295722474765073
+net_zero_committed_not_taking_action,0.019361612986400316

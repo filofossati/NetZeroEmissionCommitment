@@ -1,0 +1,104 @@
+,p_value
+port_weight,0.03719031501456719
+returns,0.0002617666040862005
+scope_3_tonnes,0.0
+emissions_in_trade,3.426688010480319e-09
+co2_oil,5.372045723637479e-05
+co2_cement,0.008171340377316798
+co2_gas,0.007513281128583495
+aviation_shipping,0.007082445580085901
+gics_sector_name_Communication Services,6.803531650823496e-21
+gics_sector_name_Consumer Discretionary,3.879210121816599e-31
+gics_sector_name_Consumer Staples,2.7570815917237424e-12
+gics_sector_name_Energy,6.40494333764261e-71
+gics_sector_name_Financials,8.973077598494959e-25
+gics_sector_name_Health Care,1.6928624794339766e-29
+gics_sector_name_Industrials,1.5470550353367315e-08
+gics_sector_name_Information Technology,5.158452685533802e-17
+gics_sector_name_Materials,2.6887380830058306e-79
+gics_sector_name_Real Estate,3.5781675576419424e-17
+gics_sector_name_Utilities,0.0
+gics_sub_industry_name_Aerospace & Defense,1.8527725962734353e-06
+gics_sub_industry_name_Agricultural & Farm Machinery,0.019887140865947787
+gics_sub_industry_name_Agricultural Products,5.200676656836487e-06
+gics_sub_industry_name_Air Freight & Logistics,0.002625085900822474
+gics_sub_industry_name_Airlines,1.139212499325782e-90
+gics_sub_industry_name_Airport Services,0.012919333420597175
+gics_sub_industry_name_Aluminum,3.83437560492704e-16
+gics_sub_industry_name_Automobile Manufacturers,2.2429292845843795e-08
+gics_sub_industry_name_Broadcasting,0.02713396580546146
+gics_sub_industry_name_Building Products,0.003958495515692889
+gics_sub_industry_name_Commodity Chemicals,5.8192985433035703e-08
+gics_sub_industry_name_Construction Machinery & Heavy Trucks,9.091964488313884e-08
+gics_sub_industry_name_Construction Materials,3.246899628262399e-208
+gics_sub_industry_name_Copper,2.338846430537631e-12
+gics_sub_industry_name_Department Stores,0.018027041679013405
+gics_sub_industry_name_Distillers & Vintners,0.03138627300135005
+gics_sub_industry_name_Diversified Banks,0.005330403238892266
+gics_sub_industry_name_Diversified Capital Markets,0.008441259075073248
+gics_sub_industry_name_Diversified Chemicals,0.00042065218966194423
+gics_sub_industry_name_Diversified Metals & Mining,1.109572378412315e-19
+gics_sub_industry_name_Diversified REITs,0.032753280222813846
+gics_sub_industry_name_Diversified Real Estate Activities,0.03328800370188577
+gics_sub_industry_name_Electric Utilities,0.0
+gics_sub_industry_name_Electrical Components & Equipment,7.512445510672027e-11
+gics_sub_industry_name_Environmental & Facilities Services,1.3627780969954287e-16
+gics_sub_industry_name_Fertilizers & Agricultural Chemicals,5.0008629881432494e-05
+gics_sub_industry_name_Food Retail,0.029901007499920876
+gics_sub_industry_name_Forest Products,0.018552177133021142
+gics_sub_industry_name_Gas Utilities,1.2516307840360337e-94
+gics_sub_industry_name_Gold,1.5715762729857533e-25
+gics_sub_industry_name_Heavy Electrical Equipment,2.5176336974623333e-05
+gics_sub_industry_name_Human Resource & Employment Services,0.004238655393596053
+gics_sub_industry_name_Hypermarkets & Super Centers,0.037441914608887364
+gics_sub_industry_name_Independent Power Producers & Energy Traders,2.6841493334893984e-219
+gics_sub_industry_name_Industrial Gases,6.025481617727884e-34
+gics_sub_industry_name_Industrial Machinery,0.0008180020203205041
+gics_sub_industry_name_Integrated Oil & Gas,1.5799282991612848e-72
+gics_sub_industry_name_Metal & Glass Containers,1.8155924863943805e-06
+gics_sub_industry_name_Multi-Sector Holdings,1.4264928480330496e-11
+gics_sub_industry_name_Multi-Utilities,5.566819642529796e-68
+gics_sub_industry_name_Oil & Gas Equipment & Services,0.02305923745145994
+gics_sub_industry_name_Paper Packaging,0.04310066341536635
+gics_sub_industry_name_Personal Products,7.544991154973493e-05
+gics_sub_industry_name_Precious Metals & Minerals,6.06904676453153e-10
+gics_sub_industry_name_Real Estate Services,0.007337974525402121
+gics_sub_industry_name_Reinsurance,0.011475579639931746
+gics_sub_industry_name_Renewable Electricity,1.5080086875361652e-09
+gics_sub_industry_name_Research & Consulting Services,0.009043771129821424
+gics_sub_industry_name_Security & Alarm Services,0.04864725102063127
+gics_sub_industry_name_Specialty Chemicals,1.8480745204132393e-43
+gics_sub_industry_name_Steel,0.0
+gics_sub_industry_name_Trading Companies & Distributors,0.006112101232458343
+gics_sub_industry_name_Water Utilities,5.092975797968863e-90
+gics_sub_industry_name_Wireless Telecommunication Services,0.00020297805892908357
+region_Africa/Mideast,0.007213297028391181
+region_Asia/Pacific Ex Japan,0.008991777408772645
+region_Europe,6.653770197595757e-06
+company_cap_large,1.3425530349639728e-05
+country_economy_developed,0.013826706765394447
+Entity_Austria,5.895352967546855e-06
+Entity_Brazil,0.012768766889277557
+Entity_Chile,5.758096344450931e-19
+Entity_China,0.02228481634556404
+Entity_Colombia,5.6753353955350046e-05
+Entity_Denmark,0.033810429905436264
+Entity_Finland,0.0004058543381303994
+Entity_Hong Kong,1.695856573324905e-07
+Entity_Italy,0.0005442745385844355
+Entity_Malaysia,0.028482830550732502
+Entity_Mexico,3.300704602178855e-08
+Entity_Netherlands,2.9625019026883285e-17
+Entity_Portugal,8.887124517155673e-12
+Entity_Russia,3.312573423969949e-06
+Entity_Singapore,3.6718672452240326e-06
+Entity_South Korea,0.00037257452046088996
+Entity_Spain,5.159046011727688e-14
+Entity_Sweden,2.904990177061626e-05
+Entity_Switzerland,2.8016249638265544e-20
+Entity_Taiwan,0.018605152775934563
+Entity_Turkey,0.021104641104148992
+Entity_United Arab Emirates,0.005720410304542239
+Entity_United Kingdom,9.83666395793055e-05
+net_zero_committed_No,9.41612164429686e-09
+net_zero_committed_Yes,3.084320127502094e-08
