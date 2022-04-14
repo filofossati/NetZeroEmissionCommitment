@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pickle 
+import pickle
 
 
 with open('./climate_commitment.pkl', 'rb')  as f:
@@ -88,7 +88,7 @@ lst_columns = ['gics_sector_name_Communication Services',
        'company_cap_small', 'country_economy_developed',
        'country_economy_emerging','target_status_class_year_committed',
        'target_status_class_year_targets_set']
-       
+
 
 lst = [option1,option2,option3,option4]
 lst2 = []
@@ -111,24 +111,21 @@ lst4 = np.array([lst_features])
 pred = model.predict(lst4)
 answer = 'YES' if pred == 1 else 'NO'
 prob = model.predict_proba(lst4)
-proba_yes =round(prob[0][1],3)
-proba_no = round(prob[0][0],3)
+proba_yes =(prob[0][1]) * 100
+proba_yes = round(proba_yes, 2)
+proba_no = (prob[0][0]) * 100
+proba_no = round(proba_no, 2)
 
 if answer == 'YES':
   st.write('Is The Company Committing To NetZero ?', f'\n\n{answer}!')
-  st.metric('Probability', f'{100 * proba_yes}%')
+  st.metric('Probability', f'{proba_yes}%')
   from PIL import Image
   image = Image.open('./images/action2.jpg')
   st.image(image, caption='The Company Is Protecting Our Home!')
 
 elif answer == 'NO':
   st.write('Is The Company Committing To NetZero ?', f'\n\n{answer}!')
-  st.metric('Probability', f'{100 * proba_no}%')
+  st.metric('Probability', f'{proba_no}%')
   from PIL import Image
   image = Image.open('./images/join_movement.jpg')
   st.image(image, caption='Hope The Company Considers To Join The NetZero Movement Soon!')
-
-
-
-
-
