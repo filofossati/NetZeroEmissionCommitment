@@ -128,4 +128,4 @@ elif answer == 'NO':
   st.metric('Probability', f'{proba_no}%')
   from PIL import Image
   image = Image.open('./images/join_movement.jpg')
-  st.image(image, caption='Hope The Company Considers To Join The NetZero Movement Soon!')
+  st.image(image, caption='Join The NetZero Movement Soon!')
