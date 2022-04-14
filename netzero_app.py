@@ -4,7 +4,7 @@ import numpy as np
 import pickle 
 
 
-with open('./model/climate_commitment.pkl', 'rb')  as f:
+with open('./climate_commitment.pkl', 'rb')  as f:
     model = pickle.load(f)
 
 #body Text
