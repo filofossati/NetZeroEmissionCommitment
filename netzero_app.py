@@ -3,9 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-
-with open('netzero_model.pkl', 'rb')  as f:
-    model = pickle.load(f)
+model = pickle.load(open('netzero_model.pkl','rb'))
 
 #body Text
 st.title('Will the Company Committ To NetZero?')
